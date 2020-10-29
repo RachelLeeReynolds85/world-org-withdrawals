@@ -9,7 +9,7 @@ Antigua and Barbuda,ATG,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,
 Argentina,ARG,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Armenia,ARM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Aruba,ABW,#N/A,#N/A,#N/A,#N/A,Associate Member,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-Australia,AUS,Signatory,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
+Australia,AUS,Signatory,#N/A,#N/A,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Austria,AUT,#N/A,#N/A,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Azerbaijan,AZE,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Bahamas,BHM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
@@ -17,7 +17,7 @@ Bahrain,BHR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously 
 Bangladesh,BGD,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Barbados,BRB,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Belarus,BLR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,Ratifier,Member
-Belgium,BEL,#N/A,Affirms,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+Belgium,BEL,#N/A,Affirms,Signatory,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Belize,BLZ,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Benin,BEN,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Bhutan,BTN,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
@@ -32,7 +32,7 @@ Burkina Faso,BFA,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previo
 Burundi,BDI,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Cambodia,KHM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Cameroon,CMR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
-Canada,CAN,Signatory,Affirms,#N/A,#N/A,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,Ratifier,Ratifier,Ratifier,Member
+Canada,CAN,Signatory,Affirms,#N/A,Member,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,Ratifier,Ratifier,Ratifier,Member
 Cape Verde,CPV,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Cayman Islands,CYM,#N/A,#N/A,#N/A,#N/A,Associate Member,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 Central African Republic,CAF,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
@@ -50,13 +50,13 @@ Curacao,CUW,#N/A,#N/A,#N/A,#N/A,Associate Member,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#
 Cyprus,CYP,#N/A,#N/A,Signatory,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Czech Republic,CZE,#N/A,Affirms,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Democratic Republic of the Congo,COD,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
-Denmark,DNK,#N/A,Affirms,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+Denmark,DNK,#N/A,Affirms,Signatory,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Djibouti,DJI,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Dominica,DMA,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Dominican Republic,DOM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 East Timor,TLS,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Ecuador,ECU,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
-Egypt,EGY,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
+Egypt,EGY,#N/A,#N/A,#N/A,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 El Salvador,SLV,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Equatorial Guinea,GNQ,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Eritrea,ERI,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Signatory,#N/A,Member
@@ -66,12 +66,12 @@ Ethiopia,ETH,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously
 Faroe Islands,FRO,#N/A,#N/A,#N/A,#N/A,Associate Member,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 Federated States of Micronesia,FSM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Fiji,FJI,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
-Finland,FIN,#N/A,#N/A,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
-France,FRA,#N/A,Affirms,Signatory,#N/A,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+Finland,FIN,#N/A,#N/A,Signatory,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+France,FRA,#N/A,Affirms,Signatory,Member,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Gabon,GAB,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Gambia,GMB,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Georgia,GEO,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
-Germany,DEU,#N/A,Affirms,Signatory,#N/A,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+Germany,DEU,#N/A,Affirms,Signatory,Member,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Ghana,GHA,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Greece,GRC,#N/A,Affirms,Signatory,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,Ratifier,Member
 Grenada,GRD,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
@@ -89,10 +89,10 @@ Iran,IRN,#N/A,#N/A,Signatory,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Signatory,#N/A,Memb
 Iraq,IRQ,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Signatory,#N/A,Member
 Ireland,IRL,#N/A,#N/A,Signatory,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Israel,ISR,#N/A,#N/A,#N/A,#N/A,Withdrawn,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
-Italy,ITA,#N/A,Affirms,Signatory,#N/A,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+Italy,ITA,#N/A,Affirms,Signatory,Member,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Jamaica,JAM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
-Japan,JPN,Signatory,#N/A,#N/A,#N/A,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
-Jordan,JOR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
+Japan,JPN,Signatory,#N/A,#N/A,Member,Member,#N/A,Agreed,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
+Jordan,JOR,#N/A,#N/A,#N/A,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Kazakhstan,KAZ,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Kenya,KEN,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Kiribati,KIR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
@@ -100,7 +100,7 @@ Kuwait,KWT,#N/A,#N/A,#N/A,Member,Member,#N/A,#N/A,Currently serving / previously
 Kyrgyzstan,KGZ,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Signatory,Member
 Laos,LAO,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Latvia,LVA,#N/A,Affirms,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
-Lebanon,LBN,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
+Lebanon,LBN,#N/A,#N/A,#N/A,Member,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Lesotho,LSO,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Liberia,LBR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Libya,LBY,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Signatory,#N/A,Member
@@ -130,7 +130,7 @@ Myanmar,MMR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Namibia,NAM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Nauru,NRU,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Nepal,NPL,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
-Netherlands,NLD,#N/A,Affirms,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
+Netherlands,NLD,#N/A,Affirms,Signatory,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 New Caledonia,NCL,#N/A,#N/A,#N/A,#N/A,Associate Member,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 New Zealand,NZL,Signatory,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Nicaragua,NIC,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
@@ -138,7 +138,7 @@ Niger,NER,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Nigeria,NGA,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Niue,NIU,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 North Korea,PRK,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
-Norway,NOR,#N/A,Affirms,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+Norway,NOR,#N/A,Affirms,#N/A,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Oman,OMN,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Pakistan,PAK,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Palau,PLW,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
@@ -175,12 +175,12 @@ Somalia,SOM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously 
 South Africa,ZAF,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 South Korea,KOR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 South Sudan,SSD,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Signatory,#N/A,Member
-Spain,ESP,#N/A,Affirms,Signatory,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
+Spain,ESP,#N/A,Affirms,Signatory,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,Ratifier,Member
 Sri Lanka,LKA,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Sudan,SDN,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Suriname,SUR,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
-Sweden,SWE,#N/A,#N/A,Signatory,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,Ratifier,Member
-Switzerland,CHE,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
+Sweden,SWE,#N/A,#N/A,Signatory,Member,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,Ratifier,Member
+Switzerland,CHE,#N/A,#N/A,#N/A,Member,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
 Syria,SYR,#N/A,#N/A,#N/A,Member,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Tajikistan,TJK,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Tanzania,TZA,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
@@ -190,7 +190,7 @@ Tokelau,TKL,#N/A,#N/A,#N/A,#N/A,Associate Member,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#
 Tonga,TON,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Trinidad and Tobago,TTO,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Tunisia,TUN,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
-Turkey,TUR,#N/A,Affirms,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Signatory,Ratifier,Member
+Turkey,TUR,#N/A,Affirms,#N/A,Member,Member,#N/A,#N/A,#N/A,#N/A,Signatory,Ratifier,Member
 Turkmenistan,TKM,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Tuvalu,TUV,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,#N/A,#N/A,Ratifier,#N/A,Member
 Uganda,UGA,#N/A,#N/A,#N/A,#N/A,Member,#N/A,#N/A,Currently serving / previously fulfilled elected term,#N/A,Ratifier,#N/A,Member
